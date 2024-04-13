@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Swordiforge
+- 👀 I’m interested in Swordigo
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on Swordigo Mods
+- 📫 Discord: nevertrolls
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am really good at lua.
